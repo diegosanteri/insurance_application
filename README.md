@@ -12,6 +12,14 @@ These are the modules:
 The user should be able to select the coverage for each module. The price of the tariff, which is the individual
 configuration for each customer, should be calculated based on the risk.
 
+# Technologies
+
+- `--Backend` - (Springboot, SpringData and H2 database)
+- `--Fronted` - (React and Redux)
+- `--Devops` -  (Docker)
+
+# Getting started
+
 The project uses docker, to build and run it you must be execute two commands: 
 - `--docker-compose build` - Build project
 - `--docker-compose up` -  Start projects (Frontend start on address localhost:8080 and backend on port localhost:8081)
