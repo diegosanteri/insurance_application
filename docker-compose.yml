@@ -1,0 +1,18 @@
+version: '2'
+
+services:
+  insurance_api:
+    build: ./insurance_api/
+    container_name: "insurance_api"
+    expose:
+      - "8081"
+    ports:
+      - "8081:8081"
+
+  insurance_frontend:
+    build: ./insurance_frontend/
+    container_name: "insurance_frontend"
+    expose:
+      - "8080"
+    ports:
+      - "8080:8080"
