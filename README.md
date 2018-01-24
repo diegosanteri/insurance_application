@@ -13,11 +13,11 @@ The user should be able to select the coverage for each module. The price of the
 configuration for each customer, should be calculated based on the risk.
 
 The project uses docker, to build and run it you must be execute two commands: 
-- `--Build project` - docker-compose build
-- `--Start projects` - docker-compose up (Frontend start on address localhost:8080 and backend on port localhost:8081)
+- `--docker-compose build` - Build project
+- `--docker-compose up` -  Start projects (Frontend start on address localhost:8080 and backend on port localhost:8081)
 
 To understand more about the api access the url http://localhost:8081/swagger-ui.html. You can get more information there.
 
 ### Understand frontend
 
-
+![alt tag](http://domain.com/path/to/img.png "Description goes here")
