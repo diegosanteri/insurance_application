@@ -20,4 +20,24 @@ To understand more about the api access the url http://localhost:8081/swagger-ui
 
 ### Understand frontend
 
-![alt tag](http://domain.com/path/to/img.png "Description goes here")
+- `First screen`
+![alt tag](https://cdn.rawgit.com/diegosanteri/insurance_application/6a7f8a62/image/dashboard.png "Dashboard image")
+
+- `Click in insurance in left side, after that you will see Management item. Click on it to see the scren`
+![alt tag](https://cdn.rawgit.com/diegosanteri/insurance_application/6a7f8a62/image/pending_simulations.png "Pending simulations")
+
+- `To adding a new insurance click in new simulation tab and fill the fields, after click in create simulation`
+![alt tag](https://cdn.rawgit.com/diegosanteri/insurance_application/6a7f8a62/image/new_simulation.png "New simulation image")
+
+- `You will be redirect to update page, you can access this page comming back to pending simulation tab and click in the orange button.`
+![alt tag](https://cdn.rawgit.com/diegosanteri/insurance_application/6a7f8a62/image/update_simulation.png "Update page")
+
+- `After the update you will redirect to pending simulations page. There click in the red button to delete one simulation,
+you will be redirect to delete simulation tab`
+![alt tag](https://cdn.rawgit.com/diegosanteri/insurance_application/6a7f8a62/image/delete_simulation.png "Delete simulation")
+
+- `After the delete operation, you will be redirect to peding simulations. There click in the green button to purchase one insurance. You will be redirect to confirm purchase contract`
+![alt tag](https://cdn.rawgit.com/diegosanteri/insurance_application/6a7f8a62/image/purchase_insurance.png "Purchase insurance")
+
+- - `After the delete operation, you will be redirect to peding simulations. To see you contract click in Purchased Insurance tab, you will see all purchased contracts.`
+![alt tag](https://cdn.rawgit.com/diegosanteri/insurance_application/6a7f8a62/image/purchased_insurance.png "Purchased insurance")
